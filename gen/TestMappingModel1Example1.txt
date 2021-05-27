@@ -1,0 +1,12 @@
+PrimaryKeyManager TestPrimaryKeyManager1 : [7d354443-98d5-11ea-8ef1-cb1cd2be9da3]
+
+MinValue: 1
+MaxValue: 20
+
+Resource1: 1
+Resource2: 5
+Resource3: 15
+Resource4: 16
+Resource5: 17
+Resource6: 20
+// Actifsource ID=[7d354434-98d5-11ea-8ef1-cb1cd2be9da3,7d354438-98d5-11ea-8ef1-cb1cd2be9da3,MimaLDSTEgFmc6BzqQ0hyV1xdKs=]

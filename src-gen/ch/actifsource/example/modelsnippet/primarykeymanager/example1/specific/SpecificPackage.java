@@ -1,4 +1,4 @@
-package ch.actifsource.example.modelsnippet.primarykeymanager.specific;
+package ch.actifsource.example.modelsnippet.primarykeymanager.example1.specific;
 
 import ch.actifsource.core.Resource;
 
@@ -19,8 +19,8 @@ public class SpecificPackage {
   }
   
   public static final String getPackageName() {
-    return "ch.actifsource.example.modelsnippet.primarykeymanager.specific";
+    return "ch.actifsource.example.modelsnippet.primarykeymanager.example1.specific";
   }
   
 }
-/* Actifsource ID=[c1a07b92-fc09-11e0-b756-0dc1d96a76cb,ch.actifsource.example.modelsnippet.primarykeymanager.specific,OhemId1+3bO+HFyzIT7y0RoA50g=] */
+/* Actifsource ID=[c1a07b92-fc09-11e0-b756-0dc1d96a76cb,ch.actifsource.example.modelsnippet.primarykeymanager.example1.specific,UWCM42H38uC026S83ULh5Qm0QFA=] */

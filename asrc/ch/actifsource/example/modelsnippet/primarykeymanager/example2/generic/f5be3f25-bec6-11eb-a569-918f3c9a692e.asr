@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="f5be3f25-bec6-11eb-a569-918f3c9a692e">
+  <owns predicate="339930af-f91f-11d9-bb45-5fabdff7c7da">
+    <resource statement-guid="f5be3f7b-bec6-11eb-a569-918f3c9a692e" type="resource" guid="f5be3f26-bec6-11eb-a569-918f3c9a692e" />
+  </owns>
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="f5be3f74-bec6-11eb-a569-918f3c9a692e" type="resource" guid="2576b879-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="32d2854d-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="f5be3f75-bec6-11eb-a569-918f3c9a692e" type="resource" guid="270595db-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="339930af-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="f5be3f7b-bec6-11eb-a569-918f3c9a692e">
+      <resource guid="f5be3f26-bec6-11eb-a569-918f3c9a692e">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="f5be3f76-bec6-11eb-a569-918f3c9a692e" type="resource" guid="bdde7d1f-c9d5-11e5-9831-156e07955359" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="f5be3f77-bec6-11eb-a569-918f3c9a692e" type="literal">mappingResource</object>
+        </predicate>
+        <predicate guid="ec497726-82e5-11da-bec9-79935dcc853f">
+          <object statement-guid="f5be3f78-bec6-11eb-a569-918f3c9a692e" type="resource" guid="ec497723-82e5-11da-bec9-79935dcc853f" />
+        </predicate>
+        <predicate guid="ec497727-82e5-11da-bec9-79935dcc853f">
+          <object statement-guid="f5be3f79-bec6-11eb-a569-918f3c9a692e" type="resource" guid="ec497722-82e5-11da-bec9-79935dcc853f" />
+        </predicate>
+        <predicate guid="5ba8fb1b-c0c7-11df-bc15-5b8c4150127a">
+          <object statement-guid="f5be3f7a-bec6-11eb-a569-918f3c9a692e" type="resource" guid="f5be3f27-bec6-11eb-a569-918f3c9a692e" />
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="f5be3f7c-bec6-11eb-a569-918f3c9a692e" type="literal">MappingModel2</object>
+  </predicate>
+</resource>
+
